@@ -1,0 +1,1 @@
+execute as @a[tag=dfin] at @s run function editor:damage/dfin
