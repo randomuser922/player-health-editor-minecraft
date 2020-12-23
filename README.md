@@ -50,7 +50,7 @@ If you have any performance issues while running the data pack, please report it
 
 **Where to report**
 
-To report bugs/issues, use either comments on this answer, or the issues page on the GitHub download link.
+To report bugs/issues, use the issues page on the GitHub download link.
 
 # Terms of Use #
 If you use this in a data pack to publish, I would like for you to put the GitHub link to the data pack somewhere for others who may want it, Thanks.  You are welcome to edit the data pack to whatever you want, just don't break it! :)
