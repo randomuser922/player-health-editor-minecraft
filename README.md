@@ -34,6 +34,7 @@ To set player health:
 What the data pack does is set the max health of the player to what health you want to set, and gives the player the instant health effect so it will update the player health, setting the player's health to max, then it sets the max health to be what it originally was.
 # Known Bugs #
 * A bug that shows the player as dead, even though they are not. (Its a Minecraft bug)
+* A bug that ignores absorption hearts, and skips to the base hearts.
 # Incompatibilities #
 **All Incompatibilities are being worked on to be compatible**
 
