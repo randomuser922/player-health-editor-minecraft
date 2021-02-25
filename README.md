@@ -54,4 +54,12 @@ If you have any performance issues while running the data pack, please report it
 To report bugs/issues, use the issues page on the GitHub download link.
 
 # Terms of Use #
-If you use this in a data pack to publish, I would like for you to put the GitHub link to the data pack somewhere for others who may want it, Thanks.  You are welcome to edit the data pack to whatever you want, just don't break it! :)
+**Note:** This section is subject to change, and you are held responsible for checking back regularly.
+If you use this in a data pack to publish, you must put the GitHub link to the data pack somewhere for others who may want it, and cannot sell and/or use for your financial benefit unless given explicit permission.  You are welcome to edit the data pack to whatever you want, just don't break it!  If you wish to get explicit permission for anything, please email me at contact.ezmc@gmail.com and I will consider your case.
+
+# Support #
+
+For anything about bugs/issues see the Finding Bugs/Issues section.
+
+For any questions or suggestions, please email me at contact.ezmc@gmail.com and I will respond as quickly as possible.
+
