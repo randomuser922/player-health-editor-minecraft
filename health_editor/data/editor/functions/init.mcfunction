@@ -10,8 +10,8 @@ setblock 1 0 1 minecraft:bedrock
 setblock 1 0 -1 minecraft:bedrock
 setblock -1 0 0 minecraft:bedrock
 setblock 1 1 0 minecraft:bedrock
-replaceitem block 0 0 0 container.0 minecraft:dirt
-replaceitem block 1 0 0 container.0 minecraft:dirt
+item replace block 0 0 0 container.0 with minecraft:dirt
+item replace block 1 0 0 container.0 with minecraft:dirt
 scoreboard objectives add exitrun dummy
 scoreboard objectives add damage dummy
 scoreboard objectives add health dummy
