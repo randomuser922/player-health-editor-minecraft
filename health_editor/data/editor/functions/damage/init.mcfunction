@@ -1,6 +1,6 @@
 execute store result score @s maxhealth run attribute @s minecraft:generic.max_health get
 scoreboard players operation @s newmaxhealth = @s health
-replaceitem block 0 0 0 container.0 minecraft:stone_button{AttributeModifiers:[{AttributeName:"generic.max_health",Name:"generic.max_health",Amount:-1,Operation:0,UUID:[I;-832632509,-1839251188,-1342648833,-1099877052],Slot:"head"}]} 1
+item replace block 0 0 0 container.0 with minecraft:stone_button{AttributeModifiers:[{AttributeName:"generic.max_health",Name:"generic.max_health",Amount:-1,Operation:0,UUID:[I;-832632509,-1839251188,-1342648833,-1099877052],Slot:"head"}]} 1
 scoreboard players operation @s newmaxhealth -= @s damage
 scoreboard players operation @s maxhealth -= @s newmaxhealth
 scoreboard players operation @s maxhealth *= -1 const
