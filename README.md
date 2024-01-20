@@ -2,7 +2,7 @@
 A Minecraft data pack that edits player health.
 
 # 1.16+ #
-**Note: This data pack is in beta, and is in the works.  If you have any bugs please let me know, and I'll add it to the known bugs list.  Also, this is not tested in any version other then 1.16.4**
+**Note: This data pack has been left in beta, and is no longer in the works. Also, this is not tested in any version other then 1.16.4**
 
 I created a data pack that allows you to set health and  deal damage to a player(for mobs use data modify instead).  First off, you can get the data pack <a href="https://github.com/randomuser922/player-health-editor-minecraft" title="Data pack download link">here</a>.  After installing it, make sure it says in chat that it was installed.
 # How To Use #
@@ -36,30 +36,13 @@ What the data pack does is set the max health of the player to what health you w
 * A bug that shows the player as dead, even though they are not. (Its a Minecraft bug)
 * A bug that ignores absorption hearts, and skips to the base hearts.
 # Incompatibilities #
-**All Incompatibilities are being worked on to be compatible**
 
 * An existing helmet/item in the helmet slot with the max health attribute
 
 # Finding Bugs/Issues #
 **Bugs**
 
-If you find any bugs, please report it.  Also add how you found the bug, so I can recreate it, and fix it, videos/screenshots of bugs are preferred.
-
-**Issues**
-
-If you have any performance issues while running the data pack, please report it.  Also add what performance issues you are getting, low tps, low fps, etc.  Videos/screenshots and computer specs do help!
-
-**Where to report**
-
-To report bugs/issues, use the issues page on the GitHub download link.
+I have archived this repository, so any issues will not be fixed or reviewed by me.
 
 # Terms of Use #
-**Note:** This section is subject to change, and you are held responsible for checking back regularly.
-If you use this in a data pack to publish, you must put the GitHub link to the data pack somewhere for others who may want it, and cannot sell and/or use for your financial benefit unless given explicit permission.  You are welcome to edit the data pack to whatever you want, just don't break it!  If you wish to get explicit permission for anything, please email me at contact.ezmc@gmail.com and I will consider your case.
-
-# Support #
-
-For anything about bugs/issues see the Finding Bugs/Issues section.
-
-For any questions or suggestions, please email me at contact.ezmc@gmail.com and I will respond as quickly as possible.
-
+Do what you like with this.
